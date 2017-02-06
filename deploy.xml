@@ -17,5 +17,5 @@
 		</exec>
 	</target>
 	<target name="deploy-all" depends="stop,undeploy,deploy,start"/>
-
+</project>
 </project>
